@@ -1,0 +1,218 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+        width="1000" height="600"
+        viewBox="0 0 1000 600">
+
+        <rect width="100%" height="100%" fill="white"/>
+
+        <text x="500.0" y="35"
+              text-anchor="middle"
+              font-family="Arial"
+              font-size="24"
+              font-weight="bold">
+            Evolução das Vendas
+        </text>
+
+        <line x1="90" y1="60"
+              x2="90" y2="500"
+              stroke="black"/>
+
+        <line x1="90" y1="500"
+              x2="960" y2="500"
+              stroke="black"/>
+
+        <polyline points="90.00,500.00 152.14,442.61 214.29,469.39 276.43,385.22 338.57,339.30 400.71,354.61 462.86,289.57 525.00,270.43 587.14,301.04 649.29,213.04 711.43,174.78 773.57,201.57 835.71,117.39 897.86,136.52 960.00,60.00"
+                  fill="none"
+                  stroke="black"
+                  stroke-width="4"/>
+
+        <text x="25" y="300.0"
+              text-anchor="middle"
+              transform="rotate(-90 25 300.0)"
+              font-family="Arial"
+              font-size="16">
+            Vendas
+        </text>
+
+        <text x="500.0" y="575"
+              text-anchor="middle"
+              font-family="Arial"
+              font-size="16">
+            Data
+        </text>
+    
+        <circle cx="90.00" cy="500.00" r="5" fill="black"/>
+        <text x="90.00" y="488.00"
+              text-anchor="middle"
+              font-family="Arial"
+              font-size="12">
+            1200
+        </text>
+        
+            <text x="90.00" y="535"
+                  text-anchor="middle"
+                  font-family="Arial"
+                  font-size="12">
+                01-01
+            </text>
+            
+        <circle cx="152.14" cy="442.61" r="5" fill="black"/>
+        <text x="152.14" y="430.61"
+              text-anchor="middle"
+              font-family="Arial"
+              font-size="12">
+            1350
+        </text>
+        
+        <circle cx="214.29" cy="469.39" r="5" fill="black"/>
+        <text x="214.29" y="457.39"
+              text-anchor="middle"
+              font-family="Arial"
+              font-size="12">
+            1280
+        </text>
+        
+            <text x="214.29" y="535"
+                  text-anchor="middle"
+                  font-family="Arial"
+                  font-size="12">
+                01-03
+            </text>
+            
+        <circle cx="276.43" cy="385.22" r="5" fill="black"/>
+        <text x="276.43" y="373.22"
+              text-anchor="middle"
+              font-family="Arial"
+              font-size="12">
+            1500
+        </text>
+        
+        <circle cx="338.57" cy="339.30" r="5" fill="black"/>
+        <text x="338.57" y="327.30"
+              text-anchor="middle"
+              font-family="Arial"
+              font-size="12">
+            1620
+        </text>
+        
+            <text x="338.57" y="535"
+                  text-anchor="middle"
+                  font-family="Arial"
+                  font-size="12">
+                01-05
+            </text>
+            
+        <circle cx="400.71" cy="354.61" r="5" fill="black"/>
+        <text x="400.71" y="342.61"
+              text-anchor="middle"
+              font-family="Arial"
+              font-size="12">
+            1580
+        </text>
+        
+        <circle cx="462.86" cy="289.57" r="5" fill="black"/>
+        <text x="462.86" y="277.57"
+              text-anchor="middle"
+              font-family="Arial"
+              font-size="12">
+            1750
+        </text>
+        
+            <text x="462.86" y="535"
+                  text-anchor="middle"
+                  font-family="Arial"
+                  font-size="12">
+                01-07
+            </text>
+            
+        <circle cx="525.00" cy="270.43" r="5" fill="black"/>
+        <text x="525.00" y="258.43"
+              text-anchor="middle"
+              font-family="Arial"
+              font-size="12">
+            1800
+        </text>
+        
+        <circle cx="587.14" cy="301.04" r="5" fill="black"/>
+        <text x="587.14" y="289.04"
+              text-anchor="middle"
+              font-family="Arial"
+              font-size="12">
+            1720
+        </text>
+        
+            <text x="587.14" y="535"
+                  text-anchor="middle"
+                  font-family="Arial"
+                  font-size="12">
+                01-09
+            </text>
+            
+        <circle cx="649.29" cy="213.04" r="5" fill="black"/>
+        <text x="649.29" y="201.04"
+              text-anchor="middle"
+              font-family="Arial"
+              font-size="12">
+            1950
+        </text>
+        
+        <circle cx="711.43" cy="174.78" r="5" fill="black"/>
+        <text x="711.43" y="162.78"
+              text-anchor="middle"
+              font-family="Arial"
+              font-size="12">
+            2050
+        </text>
+        
+            <text x="711.43" y="535"
+                  text-anchor="middle"
+                  font-family="Arial"
+                  font-size="12">
+                01-11
+            </text>
+            
+        <circle cx="773.57" cy="201.57" r="5" fill="black"/>
+        <text x="773.57" y="189.57"
+              text-anchor="middle"
+              font-family="Arial"
+              font-size="12">
+            1980
+        </text>
+        
+        <circle cx="835.71" cy="117.39" r="5" fill="black"/>
+        <text x="835.71" y="105.39"
+              text-anchor="middle"
+              font-family="Arial"
+              font-size="12">
+            2200
+        </text>
+        
+            <text x="835.71" y="535"
+                  text-anchor="middle"
+                  font-family="Arial"
+                  font-size="12">
+                01-13
+            </text>
+            
+        <circle cx="897.86" cy="136.52" r="5" fill="black"/>
+        <text x="897.86" y="124.52"
+              text-anchor="middle"
+              font-family="Arial"
+              font-size="12">
+            2150
+        </text>
+        
+        <circle cx="960.00" cy="60.00" r="5" fill="black"/>
+        <text x="960.00" y="48.00"
+              text-anchor="middle"
+              font-family="Arial"
+              font-size="12">
+            2350
+        </text>
+        
+            <text x="960.00" y="535"
+                  text-anchor="middle"
+                  font-family="Arial"
+                  font-size="12">
+                01-15
+            </text>
+            </svg>
